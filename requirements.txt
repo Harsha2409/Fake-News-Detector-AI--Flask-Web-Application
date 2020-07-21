@@ -12,3 +12,4 @@ matplotlib>=1.4.3
 pandas>=0.19
 jsonschema>=2.6.0
 nltk>=3.3
+joblib >= 0.17.0
